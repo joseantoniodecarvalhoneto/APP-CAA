@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051742375180",
+    "project_id": "testecaa-30ac9",
+    "storage_bucket": "testecaa-30ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051742375180:android:34f676d17fad5dbab08d29",
+        "android_client_info": {
+          "package_name": "com.mycompany.versao1appcaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nXdHiuUDAn9AynYgmoVvF2nErghGpd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

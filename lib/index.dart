@@ -1,0 +1,50 @@
+// Export pages
+export '/login/formulario/formulario_widget.dart' show FormularioWidget;
+export '/pages_bord_geral/board_emotion/board_emotion_widget.dart'
+    show BoardEmotionWidget;
+export '/login/tela_login_cadastro/tela_login_cadastro_widget.dart'
+    show TelaLoginCadastroWidget;
+export '/pages_bord_geral/board_pronomes/board_pronomes_widget.dart'
+    show BoardPronomesWidget;
+export '/config/conteudohistorico/conteudohistorico_widget.dart'
+    show ConteudohistoricoWidget;
+export '/config/historico/historico_widget.dart' show HistoricoWidget;
+export '/pranchas_tematicas/t_disciplinas/t_disciplinas_widget.dart'
+    show TDisciplinasWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/topicos_quimica/topicos_funcoes_nitrogenadas/aminas/aminas_widget.dart'
+    show AminasWidget;
+export '/pages_bord_geral/board_geral/board_geral_widget.dart'
+    show BoardGeralWidget;
+export '/pranchas_tematicas/temas_caa/temas_caa_widget.dart'
+    show TemasCaaWidget;
+export '/config/config/config_widget.dart' show ConfigWidget;
+export '/pranchas_tematicas/banheiro/t_banheiro/t_banheiro_widget.dart'
+    show TBanheiroWidget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/meninos_banheiro/t_meninos/t_meninos_widget.dart'
+    show TMeninosWidget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/meninos_banheiro/meninos_n1/meninos_n1_widget.dart'
+    show MeninosN1Widget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/meninos_banheiro/meninos_n2/meninos_n2_widget.dart'
+    show MeninosN2Widget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/meninas_n1/meninas_n1_widget.dart'
+    show MeninasN1Widget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/meninas_n2/meninas_n2_widget.dart'
+    show MeninasN2Widget;
+export '/pranchas_tematicas/banheiro/meninas_banheiro/t_meninas/t_meninas_widget.dart'
+    show TMeninasWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/t_quimica/t_quimica_widget.dart'
+    show TQuimicaWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/topicos_quimica/quimica_organica/quimica_organica_widget.dart'
+    show QuimicaOrganicaWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/topicos_quimica/topicos_funcoes_nitrogenadas/to_nitrogenadas/to_nitrogenadas_widget.dart'
+    show ToNitrogenadasWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/topicos_quimica/quimica_pratica/quimica_pratica_widget.dart'
+    show QuimicaPraticaWidget;
+export '/pranchas_tematicas/disciplinas/disciplinas_escolares/topicos_quimica/topicos_quimica_pratica/medicamentos/medicamentos_widget.dart'
+    show MedicamentosWidget;
+export '/pages_bord_geral/board_verbos/board_verbos_widget.dart'
+    show BoardVerbosWidget;
+export '/pages_bord_geral/board_perguntas/board_perguntas_widget.dart'
+    show BoardPerguntasWidget;
+export '/pages_bord_geral/board_tempo/board_tempo_widget.dart'
+    show BoardTempoWidget;

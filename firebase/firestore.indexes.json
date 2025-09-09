@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "historico",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "email",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
